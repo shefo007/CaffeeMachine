@@ -1,5 +1,6 @@
 class CoffeeMachine:
 
+#sssss
     def __init__(self):
 
         self.supplies = {'water': 400, 'milk': 540, 'beans': 120, 'cups': 9, 'money': 550}
